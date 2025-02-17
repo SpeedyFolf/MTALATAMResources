@@ -1,4 +1,0 @@
-[submodule "robot-mta-server"]
-	path = \[Robot\]
-	url = git@gitlab.com:The123robot/robot-mta-server.git
-	branch = master
