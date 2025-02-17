@@ -1,0 +1,9 @@
+editor_dump/
+editor_map_backups/
+editor_test/
+\[admin\]/admin/conf/reports.xml
+\[admin\]/security/actions.txt
+\[admin\]/security/violations.txt
+\[gamemodes\]/\[race\]/\[addons\]/race_ghost/ghosts
+\[managers\]/autologin/encryption_key.txt
+\[unstaged\]
